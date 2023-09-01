@@ -12,7 +12,6 @@ if ( maximoValor< arreglo[i]){
 }
 return [minimo,maximoValor] // imorimir valores minimos y maximos
 
-
 }
-ValorMinimo([20,0,5,30,2])
 
+ValorMinimo([20,0,5,30,2])
